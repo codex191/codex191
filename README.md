@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 Perkenalkan nama saya **Brian Agustian Kristianto**  
 
