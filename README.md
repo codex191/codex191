@@ -12,3 +12,12 @@ Jika kalian ingin berkenalan denganku, silakan ikuti akun [LinkedIn](https://www
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codex191&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<p>
+   <a href="https://www.instagram.com/brian.agustian191/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/brian-agustian191/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+</p>
