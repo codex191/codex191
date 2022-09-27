@@ -6,6 +6,15 @@ Saya seorang **mahasiswa** di [Universitas Palangka Raya](https://www.upr.ac.id/
 
 Jika kalian ingin berkenalan denganku, silakan hubungi akun [LinkedIn](https://www.linkedin.com/in/brian-agustian191/)ku ya.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+My name is **Brian Agustian Kristianto**
+
+I am a **student** at [Universitas Palangka Raya](https://www.upr.ac.id/)
+
+If you want to get to know me, please contact my [LinkedIn](https://www.linkedin.com/in/brian-agustian191/) account.
+
+
+
 <p align="left">
 <a href="https://github.com/codex191">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codex191&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
