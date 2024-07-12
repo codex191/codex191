@@ -1,5 +1,8 @@
 ### Hi there! 👋
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=codex191.codex191)
+[![GitHub followers](https://img.shields.io/github/followers/codex191?label=Follow&style=social)](https://github.com/codex191/?tab=follow)
+
 Perkenalkan nama saya **Brian Agustian Kristianto**  
 
 Saya seorang **mahasiswa** di [Universitas Palangka Raya](https://www.upr.ac.id/)
