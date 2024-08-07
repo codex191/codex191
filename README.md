@@ -1,5 +1,19 @@
 ### Hi there! 👋
 
+<h3 align="left">Language and Tools!</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" height="30" width="42 alt="flutter logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="30" width="42 alt="dart logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" width="42 alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="30" width="42" alt="figma logo"/>
+  
+</div>
+
+###
 <p align="left">
 <a href="https://github.com/codex191">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codex191&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
